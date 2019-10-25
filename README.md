@@ -1,2 +1,2 @@
 # picgallery
-its mine
+pictures
